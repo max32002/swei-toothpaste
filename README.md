@@ -1,6 +1,6 @@
 # 獅尾牙膏圓體 Swei Toothpaste
 
-獅尾牙膏圓體基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)的變圓和拔腳改造，更加簡明現代化的字體。支援简体中文、繁體中文、韓文與日文；
+獅尾牙膏圓體基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)的變圓和拔腳改造，更加簡明現代化的字體。支援简体中文、繁體中文、韓文與日文；歡迎大家自由應用、自由優化、自由改作！
 
 獅尾牙膏圓體的特色是「口」字的左上和右下是圓體，外型像擠出來的牙膏。
 
