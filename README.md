@@ -52,15 +52,15 @@
 ```
 @font-face {
   font-family: 'SweiToothpasteCJKtc-Regular';
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.090/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff2) format("woff2");
 }
 @font-face {
   font-family: 'SweiToothpasteCJKsc-Regular';
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20SC/SweiToothpasteCJKsc-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.090/WebFont/CJK%20SC/SweiToothpasteCJKsc-Regular.woff2) format("woff2");
 }
 @font-face {
   font-family: 'SweiToothpasteCJKjp-Regular';
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20JP/SweiToothpasteCJKjp-Regular.woff2) format("woff2");
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.090/WebFont/CJK%20JP/SweiToothpasteCJKjp-Regular.woff2) format("woff2");
 }
 ```
 
