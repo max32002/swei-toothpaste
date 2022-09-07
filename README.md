@@ -51,9 +51,16 @@
 可以服用下面的css:
 ```
 @font-face {
-  font-family: SweiToothpasteCJKtc-Regular;
-  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff2) format("woff2")
-  , url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff) format("woff");
+  font-family: 'SweiToothpasteCJKtc-Regular';
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20TC/SweiToothpasteCJKtc-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'SweiToothpasteCJKsc-Regular';
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20SC/SweiToothpasteCJKsc-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: 'SweiToothpasteCJKjp-Regular';
+  src: url(https://cdn.jsdelivr.net/gh/max32002/swei-toothpaste@2.0/WebFont/CJK%20JP/SweiToothpasteCJKjp-Regular.woff2) format("woff2");
 }
 ```
 
